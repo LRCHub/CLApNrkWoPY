@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "魔鬼中的天使(Angel devil)",
+  "base_artist": "田馥甄",
+  "createdAt": "2026-02-14T13:28:35.659330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔鬼中的天使(Angel devil)",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/01_魔鬼中的天使(Angel_devil)_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔鬼中的天使(Angel devil)",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/02_魔鬼中的天使(Angel_devil)_Hebe_Tien.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔鬼中的天使",
+      "artist": "田馥甄",
+      "has_synced": false,
+      "path": "select/pl_01_魔鬼中的天使_田馥甄.txt"
+    }
+  ]
+}
